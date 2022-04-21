@@ -1,0 +1,9 @@
+# NAME: CatchPlay+
+
+USER-AGENT,CATCHPLAY*,catchplay
+HOST,hp2-api.catchplay.com,catchplay
+HOST,sunapi.catchplay.com,catchplay
+HOST,appupdates.catchplay.com,catchplay
+HOST,material.asset.catchplay.com,catchplay
+HOST,webcms.asset.catchplay.com,catchplay
+HOST-SUFFIX,catchpaly.com,catchplay
