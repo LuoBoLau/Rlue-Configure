@@ -1,0 +1,9 @@
+# NAME: reCaptcha
+
+USER-AGENT,recaptcha*,catchplay
+HOST,hp2-api.recaptcha.com,catchplay
+HOST,sunapi.recaptcha.com,catchplay
+HOST,appupdates.recaptcha.com,catchplay
+HOST,material.asset.recaptcha.com,catchplay
+HOST,webcms.asset.recaptcha.com,catchplay
+HOST-SUFFIX,recaptcha.com,catchplay
